@@ -3,7 +3,7 @@ class oresama:
   def __init__(self):
         self.gender = "male"
         self.name = "nemmy"
-        self.timezone = "Asia/Tokyo"
+        self.timezone = "Asia/Tokyo" 
 ```
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n3mmy&theme=tokyonight) 
