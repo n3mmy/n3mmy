@@ -20,4 +20,4 @@ class oresama:
 </p>
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.66; background: url('https://raw.githubusercontent.com/younesbram/younesbram/main/matrix.gif');]{x0000}$}
+\ce{$&#x5C;unicode[GitHubはCSSを完全に理解していますよ;GitHubはCSSを完全に理解していますよ;GitHubはCSSを完全に理解していますよ;GitHubはCSSを完全に理解していますよ;GitHubはCSSを完全に理解していますよ;GitHubはCSSを完全に理解していますよ;GitHubはCSSを完全に理解していますよ;GitHubはCSSを完全に理解していますよ;GitHubはCSSを完全に理解していますよ;GitHubはCSSを完全に理解していますよ;GitHubはCSSを完全に理解していますよ;GitHubはCSSを完全に理解していますよ;GitHubはCSSを完全に理解していますよ;GitHubはCSSを完全に理解していますよ;GitHubはCSSを完全に理解していますよ;GitHubはCSSを完全に理解していますよ;GitHubはCSSを完全に理解していますよ;]{x0000}$}
